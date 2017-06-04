@@ -24,7 +24,7 @@ init();
                         // //adding a section dynamically
                         // $('button').click(function(){
                         //     $('#fullpage').append(content);
-
+                        //test
                         //     //remembering the active section / slide
                         //     var activeSectionIndex = $('.fp-section.active').index();
                         //     var activeSlideIndex = $('.fp-section.active').find('.slide.active').index();
